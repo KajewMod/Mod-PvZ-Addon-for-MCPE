@@ -7,9 +7,9 @@
       "link": "https://google.com/",
       "contact": "https://google.com/",
       
-      "addon": true,
-      "maps": true,
-      "texture": false,
+      "addon": false,
+      "maps": false,
+      "texture": true,
       "skin": true,
       "more": false,
       
