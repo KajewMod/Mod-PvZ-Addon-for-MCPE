@@ -1,0 +1,213 @@
+{
+  "Config": [
+    {
+      "interval": 2,
+      "backup": "ironsource",
+      "status": true,
+      "link": "https://google.com/",
+      "contact": "https://google.com/",
+      
+      "addon": true,
+      "maps": true,
+      "texture": false,
+      "skin": true,
+      "more": false,
+      
+      "admob_open_ads": "ca-app-pub-9730108346595961/3384091487",
+      "admob_banner": "ca-app-pub-9730108346595961/2555097680",
+      "admob_inter": "ca-app-pub-9730108346595961/8928934348",
+      "admob_native": "ca-app-pub-9730108346595961/7615852671",
+     
+      
+      "unity_banner": "Banner_Android",
+      "unity_inter": "Interstitial_Android",
+      
+      
+      "applovin_banner": "unitid",
+      "applovin_inter": "unitid",
+      "applovin_native": "unitid",
+      
+      "ironsource_banner": "15b77da35",
+      "ironsource_inter": "15b77da35",
+
+      "fan_banner":"664768054618000_664768527951286",
+      "fan_inter":"664768054618000_664768744617931",
+      "fan_native":"664768054618000_664769071284565"
+      
+    }
+  ],
+  "Addon": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Map": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Texture": [
+    {
+        "name": "ESTN Shaders Official Release",
+        "role": " ESTN Shaders is now available on Github with its own version and wiki page. Check it out here by clicking this text! ESTN Shaders (short ver. of Eldeston) is a shader pack made to change your gameplay's looks through shaders, like the water noise, plant waves, shader based sun and moon, monochromatic weather, and much more! Presented to you by FlameRender Studios.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/48/3.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/48/ESTN-Shaders-master.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/48/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/48/1.png"
+    },
+    {
+        "name": "Round World Shaders",
+        "role": "Are you a flat world believer? Well, no more I suppose! This shader makes the world in Minecraft look more round. It�s only the player who uses the resource pack which will be affected by this great visual change. It]'s by no means a realistic pack as you can't really sense the shape of the Earth just by walking. It's still pretty cool though. Beware though, it might cause you to feel nauseous but it's easy to disable the pack.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/22/empatpuluhtiga_desc.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/22/Round World Shaders v. 1.0.2.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/22/empatpuluhempat_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/22/duapuluhdua.png"
+    },
+    {
+        "name": "RSPE Shaders",
+        "role": "RSPE Shaders is a resource pack which makes the world look more vibrant, realistic and alive. Some things which it changes are the clouds, water, lava and shadows. This is one of the best shader packs for version 0.16/0.17 for Minecraft PE. It has been specifically designed for iOS devices but it will also work on Android. All in all, it�s an amazing shaders pack!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/23/empatpuluhlima_desc.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/23/RSPEShaderBeta.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/23/empatpuluhenam_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/23/duapuluhtiga.png"
+    },
+    {
+        "name": "Realistic Shaders [16 16]",
+        "role": "This shaders pack is the perfect addition to make the game look a lot more realistic and alive. One of the really cool features make it look as if wind was blowing in the grass and leaves causing them to move. The shadows are heavily improved which make them look more realistic and as you will see in the images further down it has a great impact on the graphics.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/32/tigapuluhdua.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/32/Shaders Mcpe 0.12.1 (1).mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/32/enampuluhtiga_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/32/enampuluhempat_desc.png"
+    }
+  ],
+  "Skins": [
+    {
+    "id": 1,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/N4gK-kf2VEfynQcyCZkdzn75zcPzDpZdUu5BdQ5Syjs3yg3nmCwnjRbD_ldcTLL-s64k5lTMVeYgs0fSiDvo0g",
+    "view_skin": "https://lh3.googleusercontent.com/2k9fTYUmkavlo9o2_VAlomSs-b9A0e2iRKCy3XVnHKioEFYa_q2OZGFwhao82CEZcNOovYd_dbFPaNlvsoVk8A"
+  },
+  {
+    "id": 2,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/G0WradJf1xBLwDvuptUv434JDZBMRC6fBRjzl0382O-OtTYR0QwWaW68cj9UHcSkpi8EOiYMVQeHgr2sElQ5hEc",
+    "view_skin": "https://lh3.googleusercontent.com/pmpHwIZTLb7eXdp_UxhIO9xO5TkcFBtz7pF-iYISQX1cH2PARsrctutPk5xYFlRYyE8Wahk0Y2yZq3KfougP7w"
+  },
+  {
+    "id": 3,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/MZJA7w_UzOEBg9SnOPUFx-tFvVQvSVIW6RHDDF-A6UIExTeA7j88wjGsZbFEuWR88w7ADpPy2CPALsEdjAekbA",
+    "view_skin": "https://lh3.googleusercontent.com/i-Aah_mFztqIyrMmSFaYoJVWtxthVvnaiUs2JLtJZmq1zNn96Tat36rXy70HVAzuq3WDwym9XBnzn-x4y2Et"
+  },
+  {
+    "id": 4,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/K5YGE3Wr7Pd-vjbG2FDVWvDsp3hxY3b5RKgH5tRw2OLjxHpDECGILV59znorvuwwglH_IInniccX0BHa7fO2yg",
+    "view_skin": "https://lh3.googleusercontent.com/D5lkOEzXoHb_gVJKUbWBBggQb8IClwFpYqhI4WoZma6aE-JEjgC61qGtIw84LIePWmawErQt5ECG1AWrrxKZbQ"
+  },
+  {
+    "id": 5,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/yHvN5yk1mpvcu-4kcKDPXf8zqlt1XVclMjgYKSMwXAZvqGdpL5xOM7YA_AiND6HbqrpBY7Vcl3WciswwGSEbCQ",
+    "view_skin": "https://lh3.googleusercontent.com/eLJa3ioQ9OcswEdAqh0nGKCmbYJ0ThUeBBkBIywX10kiTGmkN0WjhKGDqj3_yXRbStgbWgPW9cduXCAsB0n2cQ"
+  },
+  {
+    "id": 6,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/JMaZe4bH0P3R08-hXTSlbsfQb-TdFltW6O4ayYzSYZovSMVkUmefEcGl01_LDElBAa5TJZI61HFDISV9vyhwS44",
+    "view_skin": "https://lh3.googleusercontent.com/9Q9h1MVoAqNdWQspHqhUkoBlXfK4WQEsbf5RHW2vIrGmakEGSiublFzAJC7GNITArRlQtZa2tDN8TJ6cDdGbiOk"
+  },
+  {
+    "id": 7,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/_lycfV8rwxCseoVoHed1oVNc1t3lyZe8tYpS-DoXlFb9zj4z_X4ZIjTAtoIk0cl2epyTNhPX6WwVDuJC5zxOGg",
+    "view_skin": "https://lh3.googleusercontent.com/eBMhgZu5kKPwgUyPXCaYgLGsN64vVgstzasyMGi67Awj9DED2vHJoFcOWU40QR0uUuwUV8f8qawFcFFJ-fVm7QI"
+  },
+  {
+    "id": 8,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/cQhfjp2nNrfpsCu6voCo6xl6yQROhGZdneKJbHtG1AO-FguaOREARzNJwWsRmC9m41xrOOVs2VEbtQK_lWJjqLU",
+    "view_skin": "https://lh3.googleusercontent.com/9chQFIxHA5JsE7JYO9sAARoyHYJ6jn7R8HNLJtWY5Xjy5FTuG627rWGFI83yWy47ielzJdAq15LhVsdGNnuXUg"
+  },
+  {
+    "id": 9,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/NbNm9UerNivVvPqAl9z3dxdNKyRhgydiPzG4yZLu6SmjaIF7k7FR4EFmbPa5tVNjYjq43as1QXwbteozWCjsU21KFplrhr0zrOE",
+    "view_skin": "https://lh3.googleusercontent.com/rBKwYLi1uZW81LcnV0TuqWI5i9ZTqaO1KdMUd8tqr7c9F2VSy6esP1Zj91BiSr2wZeCj435jSuUa74IlyhQLmmlNc8BRKmNMyJGY"
+  },
+  {
+    "id": 10,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/R3iTb12163MScTNFtUwf3xb5RtcpUTZsKoEEeKtBjHDzmLr_ohzULz1WHLZJvKBpijFWiu-2I0nZSb1dXj5aM74",
+    "view_skin": "https://lh3.googleusercontent.com/PSATg6vz-UnUBtAMRr_n2Gfg2zsOE7WdO7tVb4_3WQ4XVQoVjhZWOmUom8wbj5a0VXHe4JPrTXRnksRRqoZrGoc"
+  },
+  {
+    "id": 11,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/flhoQ6dSDoXojARfwyRclRKS6VnSE3gLtiNuNkYT3L5SJSn8o4obHrS6Jo24Sw5TQNn1lcjcc-iK8HJlkPyfog",
+    "view_skin": "https://lh3.googleusercontent.com/VgOHJqWn5n5iA7hZQHux276ltP0QLkXxOF2Go1kSP6yRSejYzHmHe0WbrM3TlMxX6C0Sg6IPvtSeXBIMffq68g"
+  },
+  {
+    "id": 12,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/ls66sMp5goeIDD78_drbfODA62iMJsLSvGEPZFnqAqAHEtzCwLFiLFCs3uO9WybN_PuxWm358LG21WklcbFHRQ",
+    "view_skin": "https://lh3.googleusercontent.com/hJ3n65elUdRIAYSbjjCzXp5jSGKv6Hzb4KlTCr3fan5sx0hed6oaqDavKaozysdGAPHlxN0e6eh7ZDyiYgYF3g"
+  },
+  {
+    "id": 13,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/pQ3ExWxVXzo0j7xlmTJ3C9F3w9vGDobIIOwueq6orBDsIStIi6-tWra_ZI2jLrPSHTIIAvqrry4G3X4Ie0-s",
+    "view_skin": "https://lh3.googleusercontent.com/JHgf-Nkz0G432lFJJiB-h64Y-s1hdTlj3PLdJUecMcrVrXmIE-qA8mEWhEo5cLem1N-2oWC80ZCcYkCuOGlD"
+  },
+  {
+    "id": 14,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/G0WradJf1xBLwDvuptUv434JDZBMRC6fBRjzl0382O-OtTYR0QwWaW68cj9UHcSkpi8EOiYMVQeHgr2sElQ5hEc",
+    "view_skin": "https://lh3.googleusercontent.com/pmpHwIZTLb7eXdp_UxhIO9xO5TkcFBtz7pF-iYISQX1cH2PARsrctutPk5xYFlRYyE8Wahk0Y2yZq3KfougP7w"
+  },
+  {
+    "id": 15,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/MZJA7w_UzOEBg9SnOPUFx-tFvVQvSVIW6RHDDF-A6UIExTeA7j88wjGsZbFEuWR88w7ADpPy2CPALsEdjAekbA",
+    "view_skin": "https://lh3.googleusercontent.com/i-Aah_mFztqIyrMmSFaYoJVWtxthVvnaiUs2JLtJZmq1zNn96Tat36rXy70HVAzuq3WDwym9XBnzn-x4y2Et"
+  },
+  {
+    "id": 16,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/R3iTb12163MScTNFtUwf3xb5RtcpUTZsKoEEeKtBjHDzmLr_ohzULz1WHLZJvKBpijFWiu-2I0nZSb1dXj5aM74",
+    "view_skin": "https://lh3.googleusercontent.com/PSATg6vz-UnUBtAMRr_n2Gfg2zsOE7WdO7tVb4_3WQ4XVQoVjhZWOmUom8wbj5a0VXHe4JPrTXRnksRRqoZrGoc"
+  },
+  {
+    "id": 17,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/pQ3ExWxVXzo0j7xlmTJ3C9F3w9vGDobIIOwueq6orBDsIStIi6-tWra_ZI2jLrPSHTIIAvqrry4G3X4Ie0-s",
+    "view_skin": "https://lh3.googleusercontent.com/JHgf-Nkz0G432lFJJiB-h64Y-s1hdTlj3PLdJUecMcrVrXmIE-qA8mEWhEo5cLem1N-2oWC80ZCcYkCuOGlD"
+  }
+  ],
+  "More":
+  [
+      
+      
+  
+    {
+      "id":1,
+      "title":"",
+      "image":"",
+      "link":"https://google.com/"
+    }
+  
+
+      
+      
+      ]
+}
